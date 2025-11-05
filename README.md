@@ -20,7 +20,7 @@ I used **ESM2 (35M params)** to generate embeddings, then trained a **multi-outp
 
 ```mermaid
 flowchart TD
-    A[Protein Sequences (FASTA)] --> B[ESM2 Embeddings (1280-D)]
+    A[Protein Sequences FASTA] --> B[ESM2 Embeddings 1280-D]
     B --> C[Logistic Regression Classifier]
     C --> D[GO Term Predictions]
     D --> E[CAFA-6 Validated Submission]
