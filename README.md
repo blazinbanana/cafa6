@@ -78,7 +78,7 @@ pip install -r requirements.txt
 ## 🏅 Kaggle Submission
 
 File:  
-`submission/cafa6_submission.tsv`  
+`submission/submission.tsv`  
 
 Competition:  
 CAFA-6 Protein Function Prediction Challenge
