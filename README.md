@@ -47,7 +47,6 @@ Embedding extraction was accelerated using **Alibaba Cloud T4 GPU**.
 - **notebooks/**
   - Full training + inference workflow
   - Reusable Python modules
-- **submission/** uploaded prediction file
 - MIT License (2025)
 
 ---
