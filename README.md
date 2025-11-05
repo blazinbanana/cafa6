@@ -63,12 +63,12 @@ A0A5C2NZW3    GO:0016021    0.601
 
 ---
 
-## 📌 How to Reproduce Locally
+##  How to Reproduce Locally
 
 ```bash
 # Clone repository
-git clone https://github.com/<your-username>/cafa6-protein-function-prediction.git
-cd cafa6-protein-function-prediction
+git clone https://github.com/blazinbanana/cafa6.git
+cd cafa6
 
 # Install dependencies
 pip install -r requirements.txt
