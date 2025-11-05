@@ -13,6 +13,7 @@ I used **ESM2 (35M params)** to generate embeddings, then trained a **multi-outp
 
  Public Leaderboard: *Position 427 on Global Leader board*  
  Final submission file: `submission.tsv`
+ Team Name: `blazinbanana`
 
 ---
 
