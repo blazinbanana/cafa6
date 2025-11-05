@@ -1,0 +1,6 @@
+# In your requirements.txt
+biopython
+torch
+scikit-learn
+pandas
+numpy
