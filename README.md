@@ -3,6 +3,8 @@
 **Author:** *Caleb Mwangi Maina, Data Scientist, Kenya*  
 **Tagline:** *Bio-ML — Mapping sequence to function*  
 **Competition:** CAFA-6: Predicting Protein Function From Sequence
+[See competition here](https://www.kaggle.com/competitions/cafa-6-protein-function-prediction/overview)
+
 
 Research groups have developed many ways to determine the function of proteins, including numerous methods based on comparing unsolved sequences with databases of proteins whose functions are known. Other efforts aim to mine the scientific literature associated with some of these proteins, while even more methods combine sophisticated machine-learning algorithms with an understanding of biological processes to decipher the functions of these proteins. However, there are still many challenges in this field, which are driven by ambiguity, complexity, and data integration. The CAFA 6 competition aims to inspire data scientists to build models that can improve the accurate assignment of biological function to proteins.
 
