@@ -1,6 +1,6 @@
 # CAFA-6 Protein Function Prediction
 
-**Author:** *Caleb Mwangi*  
+**Author:** *Caleb Mwangi Maina, Data Scientist, Kenya*  
 **Tagline:** *Bio-ML — Mapping sequence to function*  
 **Competition:** CAFA-6: Predicting Protein Function From Sequence
 
