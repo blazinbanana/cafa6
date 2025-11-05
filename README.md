@@ -38,7 +38,7 @@ flowchart TD
 | Training Time | ~48 hours | Local CPU |
 | Evaluation | Micro F1 = **0.1770** | Phase-2 Validation |
 
-Embedding extraction was accelerated using **Google Colab Tesla T4 GPU**.
+Embedding extraction was accelerated using **Alibaba Cloud T4 GPU**.
 
 ---
 
