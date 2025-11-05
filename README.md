@@ -11,8 +11,8 @@
 This project predicts **Gene Ontology (GO)** terms for novel proteins using **protein language models**.  
 I used **ESM2 (35M params)** to generate embeddings, then trained a **multi-output Logistic Regression** classifier to perform multi-label biological function prediction.
 
- Public Leaderboard: *Pending scoring*  
- Final submission file: `cafa6_submission.tsv`
+ Public Leaderboard: *Position 427 on Global Leader board*  
+ Final submission file: `submission.tsv`
 
 ---
 
